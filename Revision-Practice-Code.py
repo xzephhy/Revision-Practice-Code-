@@ -1,7 +1,4 @@
-```python
-s = "Python syntax highlighting"
-print s
-```
+#This is just a quick example code, I decided to practise on for the upcoming test.
 j = 0
 
 while j < 3:
