@@ -1,4 +1,7 @@
 ```python
+s = "Python syntax highlighting"
+print s
+```
 j = 0
 
 while j < 3:
@@ -13,4 +16,4 @@ while j < 3:
     i = i + 1
 
 print("End of Program.")
-```
+
